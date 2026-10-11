@@ -4,12 +4,12 @@ Tapasya is a study tracker for CA Final students, on a Windows laptop and an And
 
 **Website:** https://tapasya.arthladdha.in
 
-This repository holds only the files to download. Get the latest from the **[Releases](https://github.com/ArthLaddha/tapasya-releases/releases/latest)** page:
+This repository holds only the files to download. They are always the latest version:
 
-| File | For |
-| --- | --- |
-| `Tapasya-Setup-<version>.exe` | Windows 10 and 11 |
-| `tapasya-test.apk` | Android phones and tablets (test build) |
+| Download | For | Version |
+| --- | --- | --- |
+| **[Tapasya-Setup.exe](https://github.com/ArthLaddha/Tapasya-Releases/raw/main/Tapasya-Setup.exe)** | Windows 10 and 11 | 1.14.0 |
+| **[Tapasya.apk](https://github.com/ArthLaddha/Tapasya-Releases/raw/main/Tapasya.apk)** | Android phones and tablets (test build) | 0.3.0-test |
 
 Tapasya is by invitation for now: you sign in with an email address that has been added to the list. To ask for access, write to tapasyastudyapp@gmail.com.
 
