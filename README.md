@@ -11,7 +11,7 @@ This repository holds only the files to download. They are always the latest ver
 | **[Tapasya-Setup.exe](https://github.com/ArthLaddha/Tapasya-Releases/raw/main/Tapasya-Setup.exe)** | Windows 10 and 11 | 1.14.0 |
 | **[Tapasya.apk](https://github.com/ArthLaddha/Tapasya-Releases/raw/main/Tapasya.apk)** | Android phones and tablets (test build) | 0.3.0-test |
 
-Tapasya is by invitation for now: you sign in with an email address that has been added to the list. To ask for access, write to tapasyastudyapp@gmail.com.
+Free for everyone: install, sign in with your email address (a code arrives by email) and start. Questions: tapasyastudyapp@gmail.com.
 
 Installing, step by step: https://tapasya.arthladdha.in/download.html#install
 Privacy policy: https://tapasya.arthladdha.in/privacy.html
